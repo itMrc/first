@@ -4,5 +4,15 @@ class Demo{
 	syso:..
 
 	second...syso...
+
+	}
+
+	public void second(){
+	
+	int year;
+	int month;
+	year = 2016;
+	month = 2;
+	
 	}
 }
